@@ -19,7 +19,8 @@ DNS Detective is a Python-based GUI tool designed for web information gathering.
 # Installation:
 1. Ensure you have Python 3.x installed on your system.
 2. Install the required Python libraries:
-     - pip install tkinter whois dnspython
+    ```bash
+   pip install tkinter whois dnspython
   
 ## Usage:
 1. Clone this repository or download the script.
