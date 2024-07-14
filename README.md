@@ -28,3 +28,15 @@ DNS Detective is a Python-based GUI tool designed for web information gathering.
 3. A GUI window will appear. Enter the domain you wish to investigate and click the "Investigate" button.
 4. The information will be displayed in the text box below.
 5. To save the information, click the "Save Document" button. The report will be saved as investigation_report.txt in the current directory.
+
+
+# Contributing
+If you have suggestions for improvements or find any bugs, please open an issue or submit a pull request.
+
+
+# Note:
+This tool is for educational and informational purposes only. Be responsible and avoid using it on domains without proper authorization.
+The script attempts to retrieve basic server information, but success may vary depending on the server configuration.
+
+# Disclaimer:
+The author assumes no responsibility for any misuse of this script. Always adhere to ethical hacking practices and respect website terms of service.
