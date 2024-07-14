@@ -9,9 +9,14 @@ DNS Detective is a Python-based GUI tool designed for web information gathering.
 4. Find subdomains using Certificate Transparency logs
 5. Scan for open ports using Nmap
 
-#Requirements
+# Requirements
 1. Python 3.x
 2. tkinter
 3. socket
 4. whois
 5. dnspython
+
+# Installation
+1. Ensure you have Python 3.x installed on your system.
+2. Install the required Python libraries:
+     - pip install tkinter whois dnspython
