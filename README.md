@@ -43,3 +43,6 @@ The script attempts to retrieve basic server information, but success may vary d
 
 ## Disclaimer:
 The author assumes no responsibility for any misuse of this script. Always adhere to ethical hacking practices and respect website terms of service.
+
+# License
+This project is licensed under the MIT License.
