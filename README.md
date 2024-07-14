@@ -4,6 +4,7 @@ DNS Detective is a Python-based GUI tool designed for web information gathering.
 
 # Features
 Get IP address of the domain
+
 Retrieve DNS records (A, AAAA, MX, NS, TXT)
 Fetch WHOIS information
 Find subdomains using Certificate Transparency logs
