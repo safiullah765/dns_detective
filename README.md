@@ -10,8 +10,8 @@ DNS Detective is a Python-based GUI tool designed for web information gathering.
 5. Scan for open ports using Nmap
 
 #Requirements
-. Python 3.x
-. tkinter
-. socket
-. whois
-. dnspython
+1. Python 3.x
+2. tkinter
+3. socket
+4. whois
+5. dnspython
